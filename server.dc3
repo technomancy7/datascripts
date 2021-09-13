@@ -1,5 +1,6 @@
 DATA name = Server Information
 DATA channel = 536682142747459595
+DATA purge = yes
 
 UPLOAD img/dxhq.jpg
 UPLOAD img/line.png
