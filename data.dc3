@@ -1,5 +1,6 @@
 DATA name = DXHQ Data Center
 DATA channel = 396821109498183680
+DATA purge = yes
 
 UPLOAD img/dxhq.jpg
 UPLOAD img/line.png
