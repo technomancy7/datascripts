@@ -47,7 +47,6 @@ UPLOAD img/line.png
 
 BEGIN
 **Mapping & Modding**
-
 <:website:456853263434907648> Tacks Lab: <https://www.dx-revision.com/dxtutorials/tack/>
 <:website:456853263434907648> Constructor: <https://www.dx-revision.com/dxtutorials/constructor/tutorials.htm>
 <:website:456853263434907648> Nelizmastr UnrealEd Video Tutorials: <https://www.youtube.com/watch?v=T64y2xPC__M&list=PL4ACFF629ACF16E8E>
@@ -58,7 +57,9 @@ BEGIN
 <:download:456853254748504097> Hanfling's Fixed UCC: <https://drive.google.com/file/d/1a7psMDbcFTcGbjj-_2yf3z9zjDZTOVTw>
 <:download:456853254748504097> ActorX with Deus Ex support (Max2016/Maya2016.5): <http://coding.hanfling.de/launch/release/ActorX-Hanfling-20170000_[Max2016_Maya2016.5].zip>
 <:download:456853254748504097> PolaricEntropy's Map Exporter: <https://deusexhq.gitlab.io/kb/MapExporter.zip>
+<:website:456853263434907648> Markie's Guide: https://github.com/TheMarkie/VanillaMatters/wiki/Setting-Up-Deus-Ex-for-modding
 SEND
+
 BEGIN
 <:download:456853254748504097> Deus Ex Help: <http://www.mediafire.com/?1xpizh1h1el7epo>
 <:download:456853254748504097> Unreal Brush Exporter: <https://gist.github.com/Gustavo6046/40987ebe8057d1726eb042a3d1d44c41#file-unrealbrushexporter-py>
