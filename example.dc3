@@ -10,7 +10,7 @@ BEGIN
 This is a test first message
 SEND
 COMMENT upload... well, uploads a file
-UPLOAD audio/ERo0AP3qMEE.mp3
+UPLOAD Sounds/9000.wav
 BEGIN
 This is the second message
 SEND
