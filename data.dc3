@@ -8,9 +8,9 @@ UPLOAD img/thedatacube.png
 UPLOAD img/line.png
 
 BEGIN
-**Buy Deus Ex**
-<:deusex:420490333164666890> <https://www.gog.com/game/deus_ex>
-<:deusex:420490333164666890> <https://store.steampowered.com/app/6910>
+do **Buy Deus Ex**
+do <:deusex:420490333164666890> <https://www.gog.com/game/deus_ex>
+do <:deusex:420490333164666890> <https://store.steampowered.com/app/6910>
 SEND
 
 UPLOAD img/line.png
