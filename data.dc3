@@ -78,11 +78,11 @@ UPLOAD img/line.png
 
 BEGIN
 **Useful Links**
+<:download:456853254748504097> Deus Ex Network files: <https://www.deusexnetwork.com/files>
 <:download:456853254748504097> DXMP Mod Collection: <https://www.moddb.com/games/deus-ex/addons/deusex-mods>
 <:website:456853263434907648> DXMP Knowledge Base: <https://deusexhq.github.io/>
 <:website:456853263434907648> Masterserver Patch/Guide: <https://deusexhq.github.io/#dxms/> 
 <:website:456853263434907648> Alpha Forums: <http://www.dxalpha.com/forum>
-<:website:456853263434907648> Chinny's Deus Ex Blog: <https://chinnysdeusexblog.wordpress.com/>
 <:website:456853263434907648> Deus Ex Discord Server List: <https://deusexhq.gitlab.io/kb/discord.html>
 <:website:456853263434907648> Deus Ex MODDB: <https://www.moddb.com/games/deus-ex/mods>
 <:website:456853263434907648> Deus Ex Network: <http://www.deusexnetwork.com/>
@@ -92,4 +92,5 @@ BEGIN
 <:website:456853263434907648> Unreal Engine MODDB: <https://www.moddb.com/engines/unreal-engine-1>
 <:website:456853263434907648> Deus Ex Classes: <https://codedmind.gitlab.io/doc/Engine.html>
 SEND
+
 FINISH
