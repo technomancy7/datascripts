@@ -1,21 +1,23 @@
-DATA name = DXHQ Data Center
-DATA channel = 396821109498183680
-DATA purge = yes
+@name DXHQ Data Center
+@channel 396779449779093505
+@purge True
 
-UPLOAD img/dxhq.jpg
-UPLOAD img/line.png
-UPLOAD img/thedatacube.png
-UPLOAD img/line.png
+#upload img/dxhq.jpg
+#upload img/line.png
+#upload img/thedatacube.png
+#upload img/line.png
 
-BEGIN
-do **Buy Deus Ex**
-do <:deusex:420490333164666890> <https://www.gog.com/game/deus_ex>
-do <:deusex:420490333164666890> <https://store.steampowered.com/app/6910>
-SEND
+start frame 1
++lines **Buy Deus Ex**
++lines <:deusex:420490333164666890> <https://www.gog.com/game/deus_ex>
++lines <:deusex:420490333164666890> <https://store.steampowered.com/app/6910>
+end
 
-UPLOAD img/line.png
+#publish frame 1
 
-BEGIN
+#upload img/line.png
+
+start frame 2
 do <:download:456853254748504097> **Multiplayer Patch (2018)**: <https://www.dropbox.com/sh/1ms5pn0oh33mw3e/AABJjCR7ZhCDpMKO8DETCYyWa?dl=0>
 do This applies a lot of community patches and some optimal settings for multiplayer. This won't affect your singleplayer setup.
 do <:download:456853254748504097> **DXMP Client (2018)**: <https://www.dropbox.com/sh/bs77gu81lmouk67/AABDByZPrN741MtE7jHPVVo9a?dl=0>
@@ -26,11 +28,11 @@ do <:download:456853254748504097> **Community Update**: <https://github.com/Defa
 do An unofficial patch package assembled by the Deus Ex community and Xen's Deus Ex Archive.
 do <:website:456853263434907648> **Masterserver Patch/Guide**: <https://deusexhq.github.io/#dxms/>
 do A guide on how to join Deus Ex Multiplayer after Gamespy's closure.
-SEND
+end
 
-UPLOAD img/line.png
+#upload img/line.png
 
-BEGIN
+start frame 3
 do **Game Enhancements**
 
 do <:download:456853254748504097> (various) Han's Launcher: <https://coding.hanfling.de/launch/>
@@ -41,11 +43,11 @@ do <:download:456853254748504097> (graphics) DirectX 11 Renderer: <https://www.m
 do <:download:456853254748504097> (graphics) NGlide Wrapper: <http://www.zeus-software.com/downloads/nglide/d-1.html>
 do <:download:456853254748504097> (audio) OpenAL: <http://www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z>
 do <:download:456853254748504097> (audio) SwFMOD: <https://sourceforge.net/projects/swfmod/files/latest/download>
-SEND
+end
 
-UPLOAD img/line.png
+#upload img/line.png
 
-BEGIN
+start frame 4
 do **Mapping & Modding**
 do <:download:456853254748504097> Deus Ex SDK: <https://www.deusexnetwork.com/files/DX1/editing/tools/8877/DeusExSDK1112f.exe>
 do <:download:456853254748504097> Deus Ex Editing Pack 2.2: <https://mega.nz/file/xdolCKhQ#mHTcieumxWGt1kxawAaHEbo26145cJsHmF97uoJDwC0>
@@ -56,9 +58,9 @@ do <:download:456853254748504097> Hanfling's Fixed UCC: <https://drive.google.co
 do <:download:456853254748504097> ActorX with Deus Ex support (Max2016/Maya2016.5): <http://coding.hanfling.de/launch/release/ActorX-Hanfling-20170000_[Max2016_Maya2016.5].zip>
 do <:download:456853254748504097> PolaricEntropy's Map Exporter: <https://deusexhq.gitlab.io/kb/MapExporter.zip>
 do <:website:456853263434907648> Markie's Guide: <https://github.com/TheMarkie/VanillaMatters/wiki/Setting-Up-Deus-Ex-for-modding>
-SEND
+end
 
-BEGIN
+start frame 5
 do <:download:456853254748504097> Deus Ex Help: <http://www.mediafire.com/?1xpizh1h1el7epo>
 do <:download:456853254748504097> Unreal Brush Exporter: <https://gist.github.com/Gustavo6046/40987ebe8057d1726eb042a3d1d44c41#file-unrealbrushexporter-py>
 do <:download:456853254748504097> Blender Mesh Importer/Exporter: <https://www.oldunreal.com/cgi-bin/yabb2/YaBB.pl?num=1490136781>
@@ -70,11 +72,11 @@ do <:download:456853254748504097> DXIW Editing Tools (For Invisible War) <https:
 do <:download:456853254748504097> DXIW Editing Files (For Invisible War) <https://www.deusexnetwork.com/files/PlanetDeusEx-ru/files/dxiw>
 do <:download:456853254748504097> Deus Ex Weather Effects Mod: <https://www.moddb.com/mods/precipitation>
 do <:download:456853254748504097> More Triggers: <http://www.offtopicproductions.com/forum/download/file.php?id=810>
-SEND
+end
 
-UPLOAD img/line.png
+#upload img/line.png
 
-BEGIN
+start frame 6
 do **Useful Links**
 do <:download:456853254748504097> Deus Ex Network files: <https://www.deusexnetwork.com/files>
 do <:download:456853254748504097> DXMP Mod Collection: <https://www.moddb.com/games/deus-ex/addons/deusex-mods>
@@ -92,6 +94,6 @@ do <:website:456853263434907648> Deus Ex Classes: <https://codedmind.gitlab.io/d
 do <:website:456853263434907648> Tacks Lab: <https://www.dx-revision.com/dxtutorials/tack/>
 do <:website:456853263434907648> Constructor: <https://www.dx-revision.com/dxtutorials/constructor/tutorials.htm>
 do <:website:456853263434907648> Nelizmastr UnrealEd Video Tutorials: <https://www.youtube.com/watch?v=T64y2xPC__M&list=PL4ACFF629ACF16E8E>
-SEND
+end
 
-FINISH
+#finish
