@@ -64,8 +64,8 @@ end
 
 start frame 5
 +lines <:download:456853254748504097> Deus Ex Help: <http://www.mediafire.com/?1xpizh1h1el7epo>
-+lines <:download:456853254748504097> Unreal Brush Exporter: <https://gist.github.com/Gustavo6046/40987ebe8057d1726eb042a3d1d44c41#file-unrealbrushexporter-py>
-+lines <:download:456853254748504097> Blender Mesh Importer/Exporter: <https://www.oldunreal.com/cgi-bin/yabb2/YaBB.pl?num=1490136781>
++lines <:download:456853254748504097> Unreal Brush Exporter (Works with Blender 2.7): <https://gist.github.com/wallabra/40987ebe8057d1726eb042a3d1d44c41#file-unrealbrushexporter-py>
++lines <:download:456853254748504097> Blender Mesh Importer/Exporter: <https://www.oldunreal.com/phpBB3/viewtopic.php?t=2409>
 +lines <:download:456853254748504097> MeshMaker: <https://www.unrealtexture.com/Unreal/Website/Downloads/3DEditing/UnrealEditor/Tools/Info/MeshMaker_Umod/MeshMaker_Umod.htm>
 +lines <:download:456853254748504097> Bright 181: <https://coding.hanfling.de/launch/mirror/bright181.zip> (Inc. PS compat. plugin)
 +lines <:download:456853254748504097> Bright 183: <https://coding.hanfling.de/launch/mirror/Bright183.zip> (Newer)
