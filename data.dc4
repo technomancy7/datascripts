@@ -1,6 +1,6 @@
-@name DXHQ Data Center
-@channel 396779449779093505
-@purge True
+@!name DXHQ Data Center
+@!channel 396779449779093505
+@!purge True
 
 #upload img/dxhq.jpg
 #upload img/line.png
