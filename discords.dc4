@@ -8,13 +8,13 @@
 #upload img/discordservers.png
 #upload img/line.png
 
-begin frame local
+start frame local
 +lines <:info:410758617067814912> Deus Ex Community HQ: https://discord.gg/jCFJ3A6 (You are here)
 end
 
 #publish frame local
 
-begin frame mods
+start frame mods
 +lines **Mods**:
 +lines <:discord:480693539974545408> Off-Topic Productions (The Nameless Mod): https://discord.gg/ZxSpWHK
 +lines <:discord:480693539974545408> Deus Ex Frozen Hell: https://discord.gg/syg8q8Y
@@ -28,7 +28,7 @@ end
 
 #publish frame mods
 
-begin frame remakes
+start frame remakes
 +lines **Remakes**
 +lines <:discord:480693539974545408> Lay D Denton: https://discord.gg/MdW7KW8jFr
 +lines <:discord:480693539974545408> Deus Ex Remake: https://discord.gg/3UT8tzKWpx
@@ -40,7 +40,7 @@ end
 
 #publish frame remakes
 
-begin frame communities
+start frame communities
 **Communities**
 +lines <:discord:480693539974545408> /r/DeusEx: https://discord.gg/FTCtTPw
 +lines <:discord:480693539974545408> Secret MJ12 Base: https://discord.gg/Vvv2ycf
