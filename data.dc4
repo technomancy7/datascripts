@@ -4,7 +4,7 @@
 
 #upload img/dxhq.jpg
 #upload img/line.png
-#upload img/thedatacube.png
+#echo img/thedatacube.png
 #upload img/line.png
 
 start frame 1
