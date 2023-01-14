@@ -11,6 +11,11 @@ start frame 1
 +lines **Buy Deus Ex**
 +lines <:deusex:420490333164666890> <https://www.gog.com/game/deus_ex>
 +lines <:deusex:420490333164666890> <https://store.steampowered.com/app/6910>
++lines -
++lines Got a retail disc version and need to patch to latest version?
++lines * https://coding.hanfling.de/launch/mirror/DeusExMPPatch1112fm.exe (en)
++lines * https://coding.hanfling.de/launch/mirror/DeusExMPPatch1112fm_d1.exe (de)
++lines * https://coding.hanfling.de/launch/mirror/DeusExMPPatch1112fm_f1.exe (fr)
 end
 
 #publish frame 1
@@ -22,7 +27,7 @@ start frame 2
 +lines This applies a lot of community patches and some optimal settings for multiplayer. This won't affect your singleplayer setup.
 +lines <:download:456853254748504097> **DXMP Client (2018)**: <https://www.dropbox.com/sh/bs77gu81lmouk67/AABDByZPrN741MtE7jHPVVo9a?dl=0>
 +lines Our multiplayer-only client, including everything from the above patch. This client only uses official Deus Ex files from the demo release and 1112fm patch, both of which are free and legal to distribute
-+lines <:download:456853254748504097> **HX**: https://wiki.deusexcoop.com/index.php?title=Installation
++lines <:download:456853254748504097> **HX**: <https://wiki.deusexcoop.com/index.php?title=Installation>
 +lines The HX Co-op client (created by Han) can be downloaded here, be sure to follow the installation guide. We recommend using the latest build and installing it over a fresh copy of the game.
 +lines <:download:456853254748504097> **Community Update**: <https://github.com/Defaultplayer001/Deus-Ex-Universe-Community-Update-/tree/master/%5B1.0%5D%20Deus%20Ex%20-%20Windows-Linux-macOS-Android>
 +lines An unofficial patch package assembled by the Deus Ex community and Xen's Deus Ex Archive.
