@@ -42,10 +42,11 @@ start frame 3
 +lines **Game Enhancements**
 
 +lines <:download:456853254748504097> (various) Han's Launcher: <https://coding.hanfling.de/launch/>
-+lines <:download:456853254748504097> (graphics) OpenGL Renderer: <http://www.cwdohnal.com/utglr/dxglr21.zip>
-+lines <:download:456853254748504097> (graphics) DirectX 9 Renderer: <http://www.cwdohnal.com/utglr/dxd3d9r13.zip>
-+lines <:download:456853254748504097> (graphics) DirectX 10 Renderer: <http://kentie.net/article/d3d10drv/files/d3d10drv-v29.zip>
-+lines <:download:456853254748504097> (graphics) DirectX 11 Renderer: <https://www.moddb.com/mods/unreal-directx11-renderer-for-ut-ug-rune-and-dx/downloads>
++lines <:download:456853254748504097> (graphics) Han's OpenGL: <https://coding.hanfling.de/opengldrv/>
++lines <:download:456853254748504097> (graphics) cwdohnal's OpenGL: <http://www.cwdohnal.com/utglr/dxglr21.zip>
++lines <:download:456853254748504097> (graphics) cwdohnal DirectX 9: <http://www.cwdohnal.com/utglr/dxd3d9r13.zip>
++lines <:download:456853254748504097> (graphics) kentie's DirectX 10: <http://kentie.net/article/d3d10drv/files/d3d10drv-v29.zip>
++lines <:download:456853254748504097> (graphics) DirectX 11: <https://www.moddb.com/mods/unreal-directx11-renderer-for-ut-ug-rune-and-dx/downloads>
 +lines <:download:456853254748504097> (graphics) NGlide Wrapper: <http://www.zeus-software.com/downloads/nglide/d-1.html>
 +lines <:download:456853254748504097> (audio) OpenAL: <http://www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z>
 +lines <:download:456853254748504097> (audio) SwFMOD: <https://sourceforge.net/projects/swfmod/files/latest/download>
