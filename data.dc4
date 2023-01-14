@@ -49,6 +49,7 @@ start frame 3
 +lines <:download:456853254748504097> (graphics) NGlide Wrapper: <http://www.zeus-software.com/downloads/nglide/d-1.html>
 +lines <:download:456853254748504097> (audio) OpenAL: <http://www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z>
 +lines <:download:456853254748504097> (audio) SwFMOD: <https://sourceforge.net/projects/swfmod/files/latest/download>
++lines <:download:456853254748504097> (input) Fix for 2x Mouse Speed glitch: <https://coding.hanfling.de/launch/release/ExtensionDll-HexPatch-20220616.zip>
 end
 
 #publish frame 3
