@@ -48,6 +48,7 @@ start frame 3
 +lines <:download:456853254748504097> (graphics) kentie's DirectX 10: <http://kentie.net/article/d3d10drv/files/d3d10drv-v29.zip>
 +lines <:download:456853254748504097> (graphics) DirectX 11: <https://www.moddb.com/mods/unreal-directx11-renderer-for-ut-ug-rune-and-dx/downloads>
 +lines <:download:456853254748504097> (graphics) NGlide Wrapper: <http://www.zeus-software.com/downloads/nglide/d-1.html>
++lines <:download:456853254748504097> (audio) Han's Cluster: <https://coding.hanfling.de/cluster/>
 +lines <:download:456853254748504097> (audio) OpenAL: <http://www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z>
 +lines <:download:456853254748504097> (audio) SwFMOD: <https://sourceforge.net/projects/swfmod/files/latest/download>
 +lines <:download:456853254748504097> (input) Fix for 2x Mouse Speed in UI when moving mouse fast: <https://coding.hanfling.de/launch/release/ExtensionDll-HexPatch-20220616.zip>
