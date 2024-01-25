@@ -1,3 +1,5 @@
+name: DXHQ Data Center
+
 # server
 name: Server Information
 channel: 536682142747459595
@@ -144,7 +146,7 @@ line2: img/line.png
 -- communities
 
 # downloads
-name: DXHQ Data Center
+name: Downloads
 channel: 396821109498183680
 author: Techno
 purge: True
