@@ -1,10 +1,9 @@
-name: DXHQ Data Center
-
 # server
 name: Server Information
 channel: 536682142747459595
 author: Techno
 purge: True
+
 
 > upload
 dhxqbanner: img/dxhq.jpg
@@ -94,6 +93,7 @@ name: Discord's List
 channel: 516071587598958617
 author: Techno
 purge: True
+source: DXHQ Data Center
 
 > upload
 dhxqbanner: img/dxhq.jpg
@@ -150,13 +150,17 @@ name: Downloads
 channel: 396821109498183680
 author: Techno
 purge: True
+source: DXHQ Data Center
 
 > upload
 dhxqbanner: img/dxhq.jpg
+
 > upload
 line1: img/line.png
+
 > upload
 dcicon: img/thedatacube.png
+
 > upload
 line2: img/line.png
 
