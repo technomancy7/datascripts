@@ -3,7 +3,7 @@ name: Server Information
 channel: 536682142747459595
 author: Techno
 purge: True
-
+source: DXHQ Data Center
 
 > upload
 dhxqbanner: img/dxhq.jpg
