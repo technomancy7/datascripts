@@ -114,7 +114,7 @@ line2: img/line.png
 
 > message
 -- mods
-**Mods**:
+**Mods**
 <:discord:480693539974545408> Off-Topic Productions (The Nameless Mod): https://discord.gg/ZxSpWHK
 <:discord:480693539974545408> Vanilla Matters: https://discord.gg/GDcXCCw
 <:discord:480693539974545408> Deus Ex: Revision: https://discord.gg/5pNtjXh
@@ -198,7 +198,7 @@ line3: img/line.png
 
 > message
 -- text_ge
-**Game Enhancements**
+# Game Enhancements
 
 <:download:456853254748504097> (various) Han's Launcher: <https://coding.hanfling.de/launch/>
 <:download:456853254748504097> (graphics) Han's OpenGL: <https://coding.hanfling.de/opengldrv/>
@@ -218,7 +218,7 @@ line3: img/line.png
 
 > message
 -- text_mm
-**Mapping & Modding**
+# Mapping & Modding
 <:download:456853254748504097> Deus Ex SDK: <https://www.deusexnetwork.com/files/DX1/editing/tools/8877/DeusExSDK1112f.exe>
 <:download:456853254748504097> Deus Ex Editing Pack 2.2: <https://mega.nz/file/xdolCKhQ#mHTcieumxWGt1kxawAaHEbo26145cJsHmF97uoJDwC0>
 <:download:456853254748504097> Hanfling's UnrealEd 1 Patch: <http://coding.hanfling.de/launch/release/EditorPatch-20190628.zip>
@@ -249,7 +249,7 @@ line3: img/line.png
 
 > message
 -- text_links
-**Useful Links**
+# Useful Links
 <:download:456853254748504097> Deus Ex Network files: <https://www.deusexnetwork.com/files>
 <:download:456853254748504097> DXMP Mod Collection: <https://www.moddb.com/games/deus-ex/addons/deusex-mods>
 <:website:456853263434907648> Ken's DXMP Clans & Community Links Archive (Open for editing, on approval): <https://docs.google.com/spreadsheets/d/1U_kO_x1JqHxgYVjqiry01GEYcjJp19Doiqgdjzw2Jjo/>
